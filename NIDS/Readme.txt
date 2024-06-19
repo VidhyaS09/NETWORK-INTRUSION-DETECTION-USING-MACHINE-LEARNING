@@ -26,8 +26,3 @@ Machine Learning Algorithim
 		They predict weather attack happen or Not.
 
 
-Thanks For Watching............
-
-By 
-
-1Croreprojects............
